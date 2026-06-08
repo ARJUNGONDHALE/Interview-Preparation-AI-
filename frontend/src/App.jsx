@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>Interview Preparation AI</h1></>
+      <h1 className='text-2xl text-pink-400 text-center'>Interview Preparation AI</h1></>
   )
 }
 
